@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  ${\color{#bababa}"⠀\space Whatever \space you \space do, \space at \space the \space crossroads, \space don't \space turn \space left. \space}$
+  ${\color{#bababa}"⠀ \space Whatever \space you \space do, \space at \space the \space crossroads, \space don't \space turn \space left. \space}$
 </p>
 
 <p align="center">
