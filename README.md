@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  ${\color{#bababa}Don't \space be \space fooled, }$ ${\color{#ffc300}it's}$ ${\color{#bababa}listening \space "}$
+  ${\color{#bababa}Don't \space be \space fooled, }$ ${\color{#ffc300}it's}$ ${\color{#bababa}listening \space ⠀"}$
 </p>
