@@ -11,5 +11,5 @@
 ⠀
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=　?　&color=7f7f7f&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=　?　&color=202020&style=for-the-badge" alt="Profile views"/>
 </div>
