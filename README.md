@@ -12,5 +12,5 @@
 ⠀
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=　?　&color=202020&style=for-the-badge" alt="Profile views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?user=puqitv&repo=puqitv&label=?&labelColor=%237f7f7f&countColor=%237f7f7f&style=for-the-badge&leftCount=10940"/>
 </div>
