@@ -1,3 +1,4 @@
+<sup> <sub> The GitHub account, 'd3rLord3' has been archived temporarily. </sup> </sub>
 <div align="center">
   <img width="1280" height="320" alt="graphic border" src="https://github.com/user-attachments/assets/32c838a0-1466-484a-aa0e-bf581af6d49b" />
 </div>
@@ -8,7 +9,8 @@
 </div>
 
 <div align="center">
-  <img width="1812" height="1300" alt="mainGraphic" src="https://github.com/user-attachments/assets/d6c81f12-e2be-486b-bbe6-9226c43fd7cb" />
+  <a href="https://docs.google.com/document/d/1AGlZR3Fe3XMM_0lXWW53nEXtXkYHKhuVP37eN3dKoiM/edit?usp=sharing">
+  <img width="1812" height="1300" alt="Go on, open it" src="https://github.com/user-attachments/assets/d6c81f12-e2be-486b-bbe6-9226c43fd7cb" />
 </div>
 
 <div align="center">
