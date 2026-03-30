@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?&user=puqitv&repo=puqitv&label=goodbye&labelColor=%23FFFC00&countColor=%23FFFC00&style=flat"/>
-</div>
-  
-  Whatever you do at the crossroads. Keep going forward. 
-  
-  ㅤ
-  
-  Or something like that
-  
-  (I was never really good with endings)
-
+  <img src="https://api.visitorbadge.io/api/visitors?&user=puqitv&repo=puqitv&label=goodbye&labelColor=%23F2D18A&countColor=%23F2D18A&style=flat"/>
 </div>
 
-<!-- i dont care how much you want to fork this repository cause you have a free will. Hi -->
+
+<!--
+
+Avery,
+
+Whatever you do at the crossroads. Keep going forward. 
+
+Or something like that
+(I was never really good with endings)
+
+-->
