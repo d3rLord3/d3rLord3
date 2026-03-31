@@ -1,4 +1,4 @@
-<sup> <sub> The GitHub account, 'd3rLord3' has been archived temporarily. </sup> </sub>
+<sup> <sub> uggcf://v.vzthe.pbz/rMxJlfn.cat </sub> </sup>
 <div align="center">
   <img width="1280" height="320" alt="graphic border" src="https://github.com/user-attachments/assets/32c838a0-1466-484a-aa0e-bf581af6d49b" />
 </div>
@@ -18,12 +18,8 @@
 </div>
 
 <!--
-
-Avery,
-
 Whatever you do at the crossroads. Keep going forward. 
 
 Or something like that
 (I was never really good with endings)
-
 -->
