@@ -1,4 +1,4 @@
-<sup> <sub> uggcf://v.vzthe.pbz/rMxJlfn.cat </sub> </sup>
+
 <div align="center">
   <img width="1280" height="320" alt="graphic border" src="https://github.com/user-attachments/assets/32c838a0-1466-484a-aa0e-bf581af6d49b" />
 </div>
