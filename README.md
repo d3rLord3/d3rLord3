@@ -12,4 +12,6 @@ Something wicked this way comes.
 <picture>
     <img width="920" alt="i like meursault Ok" src="https://github.com/user-attachments/assets/be7c8b3e-0706-488b-bfd9-12f2964ff0f4" />
 </picture>
+
+ac: @/xaehuu on twitter
 </div>
